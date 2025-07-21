@@ -1,2 +1,3 @@
 # Unity-Gaming-Services-Examples
-A collection of Unity projects illustrating practical implementations of Unity Gaming Services, including Authentication, Cloud Save, and Leaderboards.
+
+This a complete project, to open: Add Project from Disk & Select Unity Services Tutorial not the main repo folder, once added you can open it.
