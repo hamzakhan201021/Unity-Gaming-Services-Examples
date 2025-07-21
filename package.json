@@ -1,0 +1,11 @@
+{
+  "name": "com.yourname.unityauth",
+  "version": "1.0.0",
+  "displayName": "Unity Auth",
+  "description": "Simple Unity authentication system",
+  "unity": "2021.3",
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/yourname"
+  }
+}
